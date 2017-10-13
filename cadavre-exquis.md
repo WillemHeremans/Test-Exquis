@@ -1,6 +1,6 @@
-willem: C'est la vie
+willem: C'est la vie  
 
-willem: C'est quoi ce truc
+willem: C'est quoi ce truc  
 
-willem: on maitrise markdown?
+willem: on maitrise markdown?  
 
